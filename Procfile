@@ -1,1 +1,1 @@
-web:node App.jsx
+web:node index.html

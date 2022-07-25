@@ -1,0 +1,24 @@
+.background {
+  border: 3px solid white;
+
+  border-radius: 30px;
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(
+    to top,
+    #093c4f,
+    #004f5f,
+    #00636a,
+    #1a7770,
+    #3c8b72,
+    #549b77,
+    #6daa7b,
+    #87b97f,
+    #9cc98a,
+    #b1da95,
+    #c7eaa1,
+    #ddfbad
+  );
+}
